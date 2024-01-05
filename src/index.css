@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('./Main/bg.jpg');
+  background-size: cover; /* Adjust as needed */
+  background-position: center; /* Adjust as needed */
+  min-height: 100vh; /* Adjust as needed */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
 }
 
 code {
