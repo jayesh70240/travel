@@ -7,6 +7,7 @@ function MainContent() {
             <div className="container text-center text-white m-0">
                 <p>ADVENTURE AWAITS</p>
                 <h3>What are you waiting for?</h3>
+                <h2/>
             </div>
         </div>
         
