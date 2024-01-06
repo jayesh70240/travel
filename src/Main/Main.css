@@ -2,3 +2,11 @@
     font-size: 6vw;
     font-weight: bolder;
 }
+
+.mybutton{
+    background-color: black;
+    color: white;
+    width: 12vw;
+    height: 3vw;
+    margin: 5px 
+}
